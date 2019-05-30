@@ -72,6 +72,9 @@ nav a{
 	text-decoration: none;
 	display: inline-block;
 }
+nav a:hover{
+	color: blue;
+}
 main {
 	display: inline-block;
 }
